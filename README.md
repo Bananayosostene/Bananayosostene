@@ -1,6 +1,6 @@
 # Hi, I'm Bananayo Sostene
 
-I'm a passionate **Software Developer** with expertise in both **Backend** and **Frontend** development, always aiming to build scalable and impactful solutions.
+I'm a passionate **Software Developer** with expertise in both **Backend** and **Frontend** development.
 
 ### 🌍 More About Me:
 Explore my portfolio and personal projects:
